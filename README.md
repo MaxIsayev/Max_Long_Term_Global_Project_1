@@ -10,11 +10,11 @@ The plot was used for drawings on a graphics program (Corel Draw (2003), trial v
 
 The plot is a fictional future in chronological order
 5 main parts:
- 1 2024 - 2114 - S.T.A.L.K.E.R. - Zone (Anomalous Barrier) and mutants
- 2 2115 - 2499 - “The Rise of the Planet of Wolves and Dogs” or the development of super-canids
- 3 2499 - 2525 - Rescue of Mira Bystrova
- 4 2526 - 2527 - World War 4 and new world order
- 5 2528 - Chronicles of Jesus Christ and Celeste.
+ 1) 2024 - 2114 - S.T.A.L.K.E.R. - Zone (Anomalous Barrier) and mutants
+ 2) 2115 - 2499 - “The Rise of the Planet of Wolves and Dogs” or the development of super-canids
+ 3) 2499 - 2525 - Rescue of Mira Bystrova
+ 4) 2526 - 2527 - World War 4 and new world order
+ 5) 2528 - Chronicles of Jesus Christ and Celeste.
     
 The number of characters will increase as the plot develops.
 In 2012 - 4.
@@ -57,7 +57,7 @@ the project may appear (but it is not yet clear when) as
     * demons
     * Akela – Black Canadian Wolf
     * Anime War
-    * fishki.net
+    * fishki.net till 2018
     * Internet jokes and memes
     * Anime Characters Fight Wiki
     * Slavic mythology
