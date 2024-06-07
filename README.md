@@ -46,17 +46,18 @@ the project may appear (but it is not yet clear when) as
 # Internet
     * Wikipedia
         * Myths and legends
-        * Kitsune/huli-jing/kumiho
+          * Kitsune/huli-jing/kumiho
         * Information about ancient animals
-        * epicyon haydeni
-        * canis dirus
+          * epicyon haydeni
+          * canis dirus
         * Bernard Baruch
     * Reptilians
     * Youtube
-    * Troodon
-    * demons
-    * Akela – Black Canadian Wolf
-    * Anime War
+      * Troodon
+      * Akela – Black Canadian Wolf
+      * Anime War
+    * demons 
+    * angels
     * fishki.net till 2018
     * Internet jokes and memes
     * Anime Characters Fight Wiki
