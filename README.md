@@ -1,6 +1,8 @@
 # Max_Long_Term_Global_Project_1
 Global project/idea developed form 2012 to the end of life
 
+![alt text](http://e0.pxfuel.com/wallpapers/557/327/desktop-wallpaper-future-earth-future-civilization.jpg?raw=true)
+
 # Project history:
 Initially there was an idea, a written presentation of
   * inner world
