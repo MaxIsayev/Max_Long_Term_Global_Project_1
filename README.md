@@ -9,7 +9,7 @@ Global project/idea developed form 2012 to the end of life
 Initially there was an idea, a written presentation of
   * inner world
   * games + literature (books, comics and others) that inspired
-  * Creating your own story
+  * Creating my own story
 The plot was used for drawings on a graphics program (Corel Draw (2003), trial versions), fictional characters were drawn
 
 The plot is a fictional future in chronological order
