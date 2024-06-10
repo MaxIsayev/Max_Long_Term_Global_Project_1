@@ -10,9 +10,10 @@ Initially there was an idea, a written presentation of
   * inner world
   * games + literature (books, comics and others) that inspired
   * Creating my own story
-The plot was used for drawings on a graphics program (Corel Draw (2003), trial versions), fictional characters were drawn
+The plot was used for drawings on a graphics program (Corel Draw (2003, trial versions)), some fictional characters were drawn
 
-The plot is a fictional future in chronological order
+The plot is a fictional future in chronological order.
+
 5 main parts:
  1) 2024 - 2114 - S.T.A.L.K.E.R. - Zone (Anomalous Barrier) and mutants
  2) 2115 - 2499 - “The Rise of the Planet of Wolves and Dogs” or the development of super-canids
