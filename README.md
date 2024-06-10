@@ -47,6 +47,7 @@ the project may appear (but it is not yet clear when) as
  * Strugatsky: “Roadside Picnic”
  * Naruto
  * Grandson of Nurarihyon
+ * Medaka Box
  * Political articles / newspapers / news
 # Internet
     * Wikipedia
